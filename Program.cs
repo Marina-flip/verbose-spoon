@@ -12,3 +12,5 @@ foreach (var value in M )
         realSize++;
     }
 }
+Console.WriteLine(string.Join(Environment.NewLine, result, 0, realSize));
+Console.ReadKey(true);
