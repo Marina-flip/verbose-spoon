@@ -1,0 +1,15 @@
+D:\Обучение\Geekbreins\ЦИФРОВЫЕ ПРОФЕССИИ\GIT\Знакомство с языками программирования\6\first\bin\Debug\net7.0\first.exe
+D:\Обучение\Geekbreins\ЦИФРОВЫЕ ПРОФЕССИИ\GIT\Знакомство с языками программирования\6\first\bin\Debug\net7.0\first.deps.json
+D:\Обучение\Geekbreins\ЦИФРОВЫЕ ПРОФЕССИИ\GIT\Знакомство с языками программирования\6\first\bin\Debug\net7.0\first.runtimeconfig.json
+D:\Обучение\Geekbreins\ЦИФРОВЫЕ ПРОФЕССИИ\GIT\Знакомство с языками программирования\6\first\bin\Debug\net7.0\first.dll
+D:\Обучение\Geekbreins\ЦИФРОВЫЕ ПРОФЕССИИ\GIT\Знакомство с языками программирования\6\first\bin\Debug\net7.0\first.pdb
+D:\Обучение\Geekbreins\ЦИФРОВЫЕ ПРОФЕССИИ\GIT\Знакомство с языками программирования\6\first\obj\Debug\net7.0\first.csproj.AssemblyReference.cache
+D:\Обучение\Geekbreins\ЦИФРОВЫЕ ПРОФЕССИИ\GIT\Знакомство с языками программирования\6\first\obj\Debug\net7.0\first.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Geekbreins\ЦИФРОВЫЕ ПРОФЕССИИ\GIT\Знакомство с языками программирования\6\first\obj\Debug\net7.0\first.AssemblyInfoInputs.cache
+D:\Обучение\Geekbreins\ЦИФРОВЫЕ ПРОФЕССИИ\GIT\Знакомство с языками программирования\6\first\obj\Debug\net7.0\first.AssemblyInfo.cs
+D:\Обучение\Geekbreins\ЦИФРОВЫЕ ПРОФЕССИИ\GIT\Знакомство с языками программирования\6\first\obj\Debug\net7.0\first.csproj.CoreCompileInputs.cache
+D:\Обучение\Geekbreins\ЦИФРОВЫЕ ПРОФЕССИИ\GIT\Знакомство с языками программирования\6\first\obj\Debug\net7.0\first.dll
+D:\Обучение\Geekbreins\ЦИФРОВЫЕ ПРОФЕССИИ\GIT\Знакомство с языками программирования\6\first\obj\Debug\net7.0\refint\first.dll
+D:\Обучение\Geekbreins\ЦИФРОВЫЕ ПРОФЕССИИ\GIT\Знакомство с языками программирования\6\first\obj\Debug\net7.0\first.pdb
+D:\Обучение\Geekbreins\ЦИФРОВЫЕ ПРОФЕССИИ\GIT\Знакомство с языками программирования\6\first\obj\Debug\net7.0\first.genruntimeconfig.cache
+D:\Обучение\Geekbreins\ЦИФРОВЫЕ ПРОФЕССИИ\GIT\Знакомство с языками программирования\6\first\obj\Debug\net7.0\ref\first.dll
